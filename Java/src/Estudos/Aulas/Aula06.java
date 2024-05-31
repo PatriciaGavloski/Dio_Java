@@ -1,4 +1,4 @@
-package Estudos.Aulas;
+package Aulas;
 
 public class Aula06 {
 
